@@ -31,29 +31,29 @@
 
 
 
-![2019-12-27_200944](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_200944.png)
+![2019-12-27_200944](public\images\2019-12-27_200944.png)
 
-![2019-12-27_201010](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_201010.png)
+![2019-12-27_201010](public\images\2019-12-27_201010.png)
 
-![2019-12-27_201025](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_201025.png)
+![2019-12-27_201025](public\images\2019-12-27_201025.png)
 
-![2019-12-27_201046](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_201046.png)
+![2019-12-27_201046](public\images\2019-12-27_201046.png)
 
-![2019-12-27_201103](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_201103.png)
+![2019-12-27_201103](public\images\2019-12-27_201103.png)
 
-![2019-12-27_201113](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_201113.png)
+![2019-12-27_201113](public\images\2019-12-27_201113.png)
 
-![2019-12-27_201128](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_201128.png)
+![2019-12-27_201128](public\images\2019-12-27_201128.png)
 
-![2019-12-27_200734](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_200734.png)
+![2019-12-27_200734](public\images\2019-12-27_200734.png)
 
-![2019-12-27_200753](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_200753.png)
+![2019-12-27_200753](public\images\2019-12-27_200753.png)
 
-![2019-12-27_200820](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_200820.png)
+![2019-12-27_200820](public\images\2019-12-27_200820.png)
 
-![2019-12-27_200836](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_200836.png)
+![2019-12-27_200836](public\images\2019-12-27_200836.png)
 
-![2019-12-27_200853](C:\Users\86137\Desktop\wymusic\public\images\2019-12-27_200853.png)
+![2019-12-27_200853](public\images\2019-12-27_200853.png)
 
 
 
