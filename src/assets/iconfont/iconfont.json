@@ -1,0 +1,121 @@
+{
+  "id": "1523568",
+  "name": "网易音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "287175",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "400303",
+      "name": "菜单",
+      "font_class": "htmal5icon35",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "1071075",
+      "name": "多选框2",
+      "font_class": "duoxuankuang2",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "1272133",
+      "name": "分享",
+      "font_class": "fenxiang-1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "1546602",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "2118485",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "2815721",
+      "name": "日历",
+      "font_class": "rili",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "5800661",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "6240513",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "6263289",
+      "name": "电台直播",
+      "font_class": "diantaizhibo",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "6548541",
+      "name": "评论",
+      "font_class": "pinglun",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "8507560",
+      "name": "排行榜",
+      "font_class": "_huabanfuben",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "9452009",
+      "name": "直播",
+      "font_class": "zhibo-",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "10043654",
+      "name": "播放",
+      "font_class": "xinbaniconshangchuan-",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "11391498",
+      "name": "歌单",
+      "font_class": "gedan",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "11556695",
+      "name": "菜单展开",
+      "font_class": "caidanzhankai",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}
