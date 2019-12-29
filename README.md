@@ -8,7 +8,7 @@
 
 #### 技术栈
 
-- Vue3：采用最新Vue3的语法
+- Vue-cli：采用最新Vue脚手架
 - Vuex：管理公共组件状态量
 - vue-router：管理单页面应用路由
 - axios：发起http请求
