@@ -26,10 +26,4 @@
 - 音乐播放功能（切歌，播放列）
 - 我的(登录需要小小修改接口的app文件,由于只实现不到一半就不放上来了)
 
-####  图片预览
-![](https://github.com/moAxuan/wymusic/raw/wyy/public/images/2019-12-27_200853.png)
 
-
-
-
-更多的可以去public/image查看
