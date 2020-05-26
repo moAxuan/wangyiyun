@@ -1,4 +1,3 @@
-##### ps:  由于要做毕设,没什么时间继续花在这份作品上了,只能草草了结.以后有时间还会继续修改
 
 #####       (非常感谢接口作者[Binaryify](https://github.com/Binaryify))
 
@@ -28,7 +27,7 @@
 - 我的(登录需要小小修改接口的app文件,由于只实现不到一半就不放上来了)
 
 ####  图片预览
-![](./wymusic/public/images/2019-12-27_200853.png)
+![](https://github.com/moAxuan/wymusic/raw/wyy/public/images/2019-12-27_200853.png)
 
 
 
